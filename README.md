@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi there 👋 I'm Nisha Pandey</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="center" width="400" src="https://media.istockphoto.com/vectors/woman-sitting-with-laptop-freelance-online-studying-concept-remote-vector-id1225089159?k=20&m=1225089159&s=612x612&w=0&h=D_row8gk-ddYF20adk9fp7HBBn7yFNEmafOQfOBdqCA=
-">
+<img align="center" width="400" src="https://media.istockphoto.com/vectors/woman-sitting-with-laptop-freelance-online-studying-concept-remote-vector-id1225089159?k=20&m=1225089159&s=612x612&w=0&h=D_row8gk-ddYF20adk9fp7HBBn7yFNEmafOQfOBdqCA">
 
 
 - 🔭 I’m currently working on **frontend design and React apps**
