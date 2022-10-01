@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-<!--
-**nisha144/nisha144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center"> I'm Nisha Pandey</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="center" width="400px"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fwomen-coding&psig=AOvVaw1pM3aaeVMG5d0MdllO6jmN&ust=1664713469129000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjttI6Dv_oCFQAAAAAdAAAAABAP">
+<img alg"center" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fwomen-coding&psig=AOvVaw1pM3aaeVMG5d0MdllO6jmN&ust=1664713469129000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjttI6Dv_oCFQAAAAAdAAAAABAP">
 
 - 🔭 I’m currently working on **frontend design and React apps**
 
