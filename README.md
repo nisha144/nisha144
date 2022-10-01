@@ -2,7 +2,8 @@
 
 <h1 align="center"> I'm Nisha Pandey</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="center" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fwomen-coding&psig=AOvVaw1pM3aaeVMG5d0MdllO6jmN&ust=1664713469129000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjttI6Dv_oCFQAAAAAdAAAAABAP">
+<img align="center" width="400" src="![image](https://user-images.githubusercontent.com/103594122/193409895-7cbdcac5-d6ef-42be-a6e7-acda62d574ae.png)
+">
 
 
 - 🔭 I’m currently working on **frontend design and React apps**
