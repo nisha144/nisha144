@@ -1,8 +1,8 @@
-### Hi there 👋
 
-<h1 align="center"> I'm Nisha Pandey</h1>
+
+<h1 align="center">Hi there 👋 I'm Nisha Pandey</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="center" width="400" src="![image](https://user-images.githubusercontent.com/103594122/193409895-7cbdcac5-d6ef-42be-a6e7-acda62d574ae.png)
+<img align="center" width="400" src="https://media.istockphoto.com/vectors/woman-sitting-with-laptop-freelance-online-studying-concept-remote-vector-id1225089159?k=20&m=1225089159&s=612x612&w=0&h=D_row8gk-ddYF20adk9fp7HBBn7yFNEmafOQfOBdqCA=
 ">
 
 
