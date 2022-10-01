@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi there 👋 I'm Nisha Pandey</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="center" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fwomen-coding&psig=AOvVaw1qx_UkQMoDuXMWez5TawM3&ust=1664714384543000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCCmMOGv_oCFQAAAAAdAAAAABAD">
+<img align="right" width="400" src="[https://media.istockphoto.com/vectors/woman-sitting-with-laptop-freelance-online-studying-concept-remote-vector-id1225089159?k=20&m=1225089159&s=612x612&w=0&h=D_row8gk-ddYF20adk9fp7HBBn7yFNEmafOQfOBdqCA=](https://www.google.com/search?q=lady%20programmer%20images&tbm=isch&hl=en&tbs=rimg:CWokCcnH59wbYUVXvCCn5S4F8AEAsgIMCgIIABAAOgQIABAA&sa=X&ved=0CBsQuIIBahcKEwjwgpjDhr_6AhUAAAAAHQAAAAAQCw&biw=1899&bih=892#imgrc=gKWDzpx9PiGgNM)
+">
 
 
 - 🔭 I’m currently working on **frontend design and React apps**
