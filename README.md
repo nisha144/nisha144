@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi there 👋 I'm Nisha Pandey</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="center" width="400" src="https://www.istockphoto.com/illustrations/women-coding">
-
+<img align="center" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fwomen-coding&psig=AOvVaw1qx_UkQMoDuXMWez5TawM3&ust=1664714384543000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCCmMOGv_oCFQAAAAAdAAAAABAD">
 
 
 - 🔭 I’m currently working on **frontend design and React apps**
